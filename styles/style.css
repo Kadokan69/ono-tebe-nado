@@ -98,7 +98,7 @@
   grid-template-columns: 70% 1fr;
   justify-items: center;
   align-items: center;
-  padding: 0 20px 50px 30px;
+  padding: 0 20px 52px 30px;
 }
 
 .cover__subline-text {
@@ -198,7 +198,7 @@
 }
 
 .about {
-  padding-bottom: 185px;
+  padding-bottom: 180px;
 }
 
 .about__column {
@@ -240,14 +240,12 @@
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  align-items: center;
   padding-bottom: 88px;
 }
 
 .footer .address {
-  max-width: 265px;
-  justify-self: center;
-  padding-top: 20px;
+    max-width: 265px;
+    justify-self: center;
 }
 
 .footer__menu-list {
