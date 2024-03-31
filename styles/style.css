@@ -75,7 +75,6 @@
   padding: 165px 50px 135px;
   line-height: 100%;
   letter-spacing: 30px;
-  font-family: Raleway, Arial, Helvetica, sans-serif;
 }
 
 .letter-spacing-extended {
@@ -118,7 +117,6 @@
   color: #fff;
   text-transform: uppercase;
   font-size: 22px;
-  font-family: Raleway, Arial, Helvetica, sans-serif;
   padding: 12px 32px;
   border: 1px solid currentColor;
   cursor: pointer;
@@ -231,7 +229,7 @@
   text-transform: uppercase;
 }
 
-.about__text{
+.about__text {
   display: grid;
   gap: 24px;
 }

@@ -8,7 +8,7 @@ body {
   max-width: 1100px;
   box-sizing: border-box;
   margin: 0 auto;
-  font-family: Raleway, Arial, Helvetica, sans-serif;
+  font-family: Raleway, sans-serif;
 }
 
 h1,
@@ -24,9 +24,7 @@ li,
 blockquote {
   margin: 0;
   padding: 0;
-  
 }
-
 
 a {
   color: inherit;
@@ -45,4 +43,5 @@ button {
   margin: 0;
   padding: 0;
   border: 0;
+  font-family: Raleway, sans-serif;
 }
